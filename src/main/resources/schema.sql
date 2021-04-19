@@ -1,0 +1,1 @@
+create table customer(id number(10),name varchar2(20),grade varchar2(20));
